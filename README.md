@@ -1,4 +1,7 @@
 # Password-Generator
+
+https://paddybarn.github.io/Password-Generator/
+
 In this assignment, we were given base code for a password generator site and asked to make the generator functional and operate with the following requirements:
         GIVEN I need a new, secure password
         WHEN I click the button to generate a password
